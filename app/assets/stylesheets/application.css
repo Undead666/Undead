@@ -25,3 +25,12 @@ a {color:pink; text-decoration: underline;}
 .navbar { box-shadow: 0px 10px 100px grey; }
 .navbar {}
 li.active a {background: black!important; }
+.idea-name {color:pink;}
+
+.more {margin-left: 8px;}
+h2 {color:pink;}
+a.no-underline {text-decoration: none;}
+a:hover {color: #D1A2E4;}
+p {color:grey;}
+p.grey {color:rgb(49, 50, 51);}
+.thumb {margin-top: 50px;}
